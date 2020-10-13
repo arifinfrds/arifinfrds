@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **arifinfrds/arifinfrds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi There 👋
+
+
+I am Arifin Firdaus, currently doing internship at **Apple Developer Academy @ UC** Surabaya, Indonesia,  as an iOS Developer. I have been learning iOS development start from 2015. My current interest is making app that can help long term business by paying attention on the code & architecture quality. 
+
+Apart from that I'm also:
+-  **iOS Engineer** at [Come Indonesia](https://comeapp.id) 
+-  One of content creator of **learnmakeapp** 
+     - [learnmakeapp YouTube](https://www.youtube.com/channel/UC7CAmna4bcOtl1tCfsVHjCQ)
+     - [learnmakeapp Medium](https://www.dicoding.com/academies/14)
+
+### 💬 Reach me :coffee:
+Linkedin : https://linkedin.com/in/arifinfrds
+
+Portfolio Website : https://arifinfrds.github.io
+
+Medium : https://medium.com/@arifinfrds
+
+![Arifin's github stats](https://github-readme-stats.vercel.app/api?username=arifinfrds&show_icons=true&hide=["prs","issues","contribs"])
