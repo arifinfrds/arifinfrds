@@ -23,7 +23,7 @@ Apart from that I'm also:
 -  **iOS Engineer** at [Come Indonesia](https://comeapp.id) 
 -  One of content creator of **learnmakeapp** 
      - [learnmakeapp YouTube](https://www.youtube.com/channel/UC7CAmna4bcOtl1tCfsVHjCQ)
-     - [learnmakeapp Medium](https://www.dicoding.com/academies/14)
+     - [learnmakeapp Website](https://learnmake.app)
 
 ### 💬 Reach me :coffee:
 Linkedin : https://linkedin.com/in/arifinfrds
