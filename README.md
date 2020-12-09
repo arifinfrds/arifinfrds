@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 I am Arifin Firdaus, currently doing internship at **Apple Developer Academy @ UC** Surabaya, Indonesia,  as an iOS Developer. I have been learning iOS development start from 2015. My current interest is making app that can help long term business by paying attention on the code & architecture quality. 
 
 Apart from that I'm also:
--  **iOS Engineer** at [Come Indonesia](https://comeapp.id) 
 -  One of content creator of **learnmakeapp** 
      - [learnmakeapp YouTube](https://www.youtube.com/channel/UC7CAmna4bcOtl1tCfsVHjCQ)
      - [learnmakeapp Website](https://learnmake.app)
