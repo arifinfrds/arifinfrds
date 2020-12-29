@@ -32,4 +32,3 @@ Portfolio Website : https://arifinfrds.github.io
 Medium : https://medium.com/@arifinfrds
 
 ![Arifin's github stats](https://github-readme-stats.vercel.app/api?username=arifinfrds&show_icons=true&hide=["prs","issues","contribs"])<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arifinfrds)](https://github.com/arifinfrds/arifinfrds)
