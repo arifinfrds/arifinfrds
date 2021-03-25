@@ -27,6 +27,8 @@ Apart from that I'm also:
 ### 💬 Reach me :coffee:
 Linkedin : https://linkedin.com/in/arifinfrds
 
+Personal Website (Articles) : https://arifinfrds.com
+
 Portfolio Website : https://arifinfrds.github.io
 
 Medium : https://medium.com/@arifinfrds
